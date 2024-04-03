@@ -1,29 +1,46 @@
-# About Me
+<!-- Header -->
+<h1 align="center">About me</h1>
 
-Hello! I'm Adrian, a passionate software developer who is continuously expanding my experience in creating web and cross-platform solutions. My love for technology has led me to master various programming languages, including Java, C#, JavaScript, React.js, PHP, among others.
+<!-- Introduction -->
+<p align="center">👋 Hello! I'm Adrian, a passionate software developer who loves building web and cross-platform solutions.</p>
 
-## Professional Experience 🌟
+<!-- Professional Summary -->
+## Professional Summary 🚀
 
-Throughout my career, I have collaborated on interesting projects, ranging from designing and developing web applications to implementing cross-platform solutions. My focus is on creating innovative and high-quality products that meet user needs.
+I have a diverse background in software development, with a focus on creating innovative and user-friendly applications. Throughout my career, I've had the opportunity to work on various projects, from web development to cross-platform solutions, always striving for excellence.
 
-## Technical Skills 🔧
+## 🔧 Technical Skills
 
-My ability to adapt to different technologies has allowed me to work in a variety of environments, both front-end and back-end. I am familiar with frameworks like React and Symfony, as well as developing applications using various cross-platform and web technologies.
+- **Languages**: Java, C#, JavaScript, PHP
+- **Frameworks**: React, Symfony, Angular, Laravel
+- **Tools**: Git, VS Code, IntelliJ IDEA, Docker
+- **Platforms**: Web, Android
 
-## Teamwork 🤝
+## 🌟 Professional Experience
 
-I firmly believe in the power of teamwork. I enjoy collaborating with colleagues to find creative solutions to complex challenges. My effective communication skills and willingness to learn from others make me a valuable member of any team.
+I've collaborated on a range of exciting projects, including:
 
-## Education 💼
+- Designing and developing web applications
+- Implementing cross-platform solutions
+- Enhancing user experience through intuitive interfaces
 
-I am a graduate in Higher Technician in Web Application Development and Higher Technician in Multiplatform Application Development with a focus on software development. My academic background has provided me with a solid foundation in programming principles and agile methodologies.
+## 🤝 Teamwork
 
-## Languages 🌐
+I firmly believe in the power of teamwork. Collaborating with colleagues to solve complex problems and deliver exceptional results is where I excel. My effective communication skills and adaptability make me a valuable asset to any team.
 
-In addition to my fluency in various programming languages, I am fluent in English, allowing me to collaborate effectively in international teams.
+## 💼 Education
 
-## Next Steps 🚀
+- **Higher Technician in Web Application Development**
+- **Higher Technician in Multiplatform Application Development**
 
-I am always seeking new challenges and opportunities for professional growth. If you're looking for a passionate and versatile developer for your next project, I would love to connect with you!
+## 🌐 Languages
 
-Thank you for visiting my profile! Feel free to contact me to discuss potential collaborations or job opportunities.
+In addition to my fluency in various programming languages, I am proficient in English, enabling seamless collaboration in international settings.
+
+## 📩 Contact Me
+
+If you're interested in working together or have any questions, feel free to reach out to me at [email@example.com](mailto:email@example.com).
+
+<!-- Footer -->
+<p align="center">Thank you for visiting my profile! Let's build something great together!</p>
+
