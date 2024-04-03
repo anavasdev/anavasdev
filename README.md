@@ -39,7 +39,7 @@ In addition to my fluency in various programming languages, I am proficient in E
 
 ## 📩 Contact Me
 
-If you're interested in working together or have any questions, feel free to reach out to me at [email@example.com](mailto:email@example.com).
+If you're interested in working together or have any questions, feel free to reach out to me at [adrian.navasdev@gmail.com](mailto:adrian.navasdev@gmail.com).
 
 <!-- Footer -->
 <p align="center">Thank you for visiting my profile! Let's build something great together!</p>
